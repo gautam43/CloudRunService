@@ -1,0 +1,5 @@
+project_id = "resounding-axe-426118-c0"
+region     = "us-east4"
+name       = "myhelloworld"
+location   = "us-east4"
+image      = "us-east4-docker.pkg.dev/resounding-axe-426118-c0/helloworld/helloworld:latest"
